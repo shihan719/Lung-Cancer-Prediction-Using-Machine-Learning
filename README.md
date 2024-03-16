@@ -10,7 +10,7 @@ This project focuses on developing a machine learning model for predicting the l
 Categorical variables were one-hot encoded to prepare the dataset for training.
 
 ***Model Training:***
-Two models were trained - RandomForest, Gradient Boosting, Decision Tree, Logistic Regression, and Support Vector Machine - using a dataset containing features related to lung health.
+Five models were trained - RandomForest, Gradient Boosting, Decision Tree, Logistic Regression, and Support Vector Machine - using a dataset containing features related to lung health.
 
 ***Model Evaluation:***
 The accuracy of both models was evaluated on a test dataset to assess their predictive performance.
